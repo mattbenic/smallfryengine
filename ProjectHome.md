@@ -1,0 +1,1 @@
+A collection of classes implementing a 2D J2ME game engine and utilities more optimal than the MIDP2 javax.microedition.lcdui.game package and handling certain aspects of device fragmentation.
